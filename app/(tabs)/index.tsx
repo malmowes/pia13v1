@@ -23,7 +23,7 @@ export default function HomeScreen() {
 
 
         <Text> 
-        rotor
+        rataton
         </Text>
         <Image
           source={{
